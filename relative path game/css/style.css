@@ -1,0 +1,23 @@
+#wrap{
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    display: inline-block;
+    transform: scale(1.1);
+    transition:  all 0.8s;
+    color: gray;
+}
+.emp{
+    color: tomato;
+    font-weight: bolder;
+}
