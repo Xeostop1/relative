@@ -21,3 +21,10 @@ a:hover {
     color: tomato;
     font-weight: bolder;
 }
+.inner{
+    font-size: 1vW;
+    text-align: justify;
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 700px;
+}
